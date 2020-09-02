@@ -1,0 +1,15 @@
+{
+  "name": "ranstr",
+  "version": "1.0.2",
+  "description": "Package for generate random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "String"
+  ],
+  "author": "Angga Manggala",
+  "license": "MIT"
+}
